@@ -1,2 +1,2 @@
-# Ejercicio práCTICO Administración de paquete con npm
-URL repositorio: https://github.com/sebaguimad/m6-l2-d1-ejercicio1
+# Ejercicio práctico Administración de paquete con npm
+URL repositorio: https://github.com/sebaguimad/-Ejercicio-practico-Administracion-de-paquete-con-npm
