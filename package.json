@@ -1,0 +1,24 @@
+{
+  "name": "ejercicio-practico_servidor-web-en-node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ascii-art": "^2.8.5",
+    "chalk": "^5.2.0",
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "figlet": "^1.5.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
